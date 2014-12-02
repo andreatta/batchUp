@@ -1,4 +1,4 @@
 batchUp
 =======
 
-Bacth backup script using robocopy.
+Batch backup script using robocopy.
